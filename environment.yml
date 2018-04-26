@@ -1,0 +1,6 @@
+channels:
+- conda-forge
+dependencies:
+- pymapd
+- pip:
+  - git+https://github.com/Quansight/ibis
